@@ -1,0 +1,61 @@
+﻿check,status,detail
+源 EPUB 存在,PASS,/mnt/data/高善文文集V4.0.epub
+源 EPUB SHA-256 匹配,PASS,d84eb38d989588b66ec63d0dce528f94564ecd444f043f7c46dfd21c12dc4366
+160 篇单篇 Markdown 存在,PASS,160 篇
+全文合并版唯一且存在,PASS,1 份
+文章 Front Matter 和源哈希有效,PASS,160 篇已检查
+文章 ID 为 001—160 且唯一,PASS,160/160 唯一
+基础文章索引 160 行,PASS,160 行
+增强文章索引 160 行,PASS,160 行
+增强索引文章 ID 完整,PASS,160/160 唯一
+增强索引文章路径全部有效,PASS,160/160
+9 个分类及篇数匹配 EPUB,PASS,"{""产业、产能与能源转型"": 12, ""代表作与研究方法"": 8, ""周期、通胀与人口"": 22, ""成长、追忆与评论"": 12, ""房地产、城市化与消费"": 23, ""流动性、利率与汇率"": 26, ""财政、疫情及宏观应对"": 10, ""贸易、国际收支与全球经济"": 17, ""资本市场与金融风险"": 30}"
+内容类型统计匹配,PASS,"{""analysis"": 140, ""commentary"": 7, ""essay"": 10, ""representative"": 3}"
+正文字符统计匹配,PASS,"非空白 858,136；汉字 742,943"
+日期范围与完整性匹配,PASS,有日期 157；2009-08-15—2024-10-22
+V4 文章更新状态统计匹配,PASS,"{""consolidated_from_v3"": 7, ""new_in_v4"": 63, ""retained_exact"": 87, ""retained_revised"": 3}"
+增强索引包含新增方法字段,PASS,"body_sha256, broad_observation_dimensions, exclusive_evidence_methods, file_sha256, legacy_v3_ids, methodology_concepts, source_epub_sha256, update_status"
+EPUB—Markdown 逐篇文字校验 160 行,PASS,160 行
+正文汉字序列逐篇完全一致,PASS,最低 1.000000；平均 1.000000
+全部文章通过 0.99 阈值,PASS,160/160
+旧版 108 篇迁移表完整,PASS,108 行
+旧版迁移关系统计匹配,PASS,"{""legacy_abridged_consolidated"": 1, ""removed_from_v4"": 4, ""retained_exact"": 94, ""retained_minor_revision"": 5, ""retained_revised"": 4}"
+旧版删除与映射状态有效,PASS,删除 4；已映射 104
+V4 无未合并重复文章组,PASS,0 行
+"章节感知切片 1,264 条且可解析",PASS,1264 条
+"固定字符切片 1,053 条且可解析",PASS,1053 条
+两套切片 ID 唯一,PASS,semantic 1264/1264；fixed 1053/1053
+两套切片覆盖 160 篇,PASS,semantic 160；fixed 160
+语义切片长度受控,PASS,最小 123；中位 725.0；最大 1247
+语义切片包含 V1.2 方法元数据,PASS,"broad_observation_dimensions, content_sha256, exclusive_evidence_methods, legacy_v3_ids, methodology_concepts, next_chunk_id, prev_chunk_id, section_path, update_status"
+语义切片内容哈希有效,PASS,1264 条
+语义切片相邻指针有效,PASS,prev/next 全部匹配
+固定切片相邻指针有效,PASS,prev/next 全部匹配
+160 篇均有语义核心覆盖，标题差异受控,PASS,覆盖 160/160；最大标题/标记差异 666
+主题地图有效,PASS,05_indexes/topic_map_v2.md；关键术语 2/2
+方法论概念地图有效,PASS,05_indexes/methodology_concept_map.md；关键术语 3/3
+广谱观察维度地图有效,PASS,05_indexes/broad_observation_dimension_map.md；关键术语 3/3
+排他性证据方法地图有效,PASS,05_indexes/exclusive_evidence_method_map.md；关键术语 3/3
+方法论来源地图已迁移到 V4 ID,PASS,V4 方法来源与核心强化均已覆盖
+含图文章兼容索引 57 行,PASS,57 行
+EPUB 结构统计匹配 V4,PASS,文章 160；分类 9；图片 979
+EPUB 文章清单 160 行,PASS,160 行
+EPUB 图片引用索引 978 行,PASS,978 行
+EPUB 图片资产清单 979 行,PASS,979 行
+"EPUB 内部 2,626 项引用无缺失",PASS,2626 项；缺失 0
+标准 Skill Front Matter 有效,PASS,name=gaobo-macro-market-policy
+Skill 版本为 1.2.0,PASS,version=1.2.0
+Skill 包含 8 个参考模块,PASS,8 个
+Skill 核心强化条款齐全,PASS,齐全
+新增参考模块 08 完整,PASS,关键术语 6/6
+政策模块已加入横断面和排他性检验,PASS,政策穿透条款齐全
+输出模板含两张证据矩阵,PASS,模板齐全
+Skill 评分标准为 16 项/32 分,PASS,识别 16 项
+Skill 回归测试 13 个且 ID 唯一,PASS,13 个
+回归测试覆盖广谱观察与排他性证据,PASS,覆盖关键概念
+两份单文件 Skill 完全一致,PASS,大小 63154 字节
+单文件 Skill 已合并 8 个模块,PASS,references=8
+六份使用指南齐全,PASS,齐全
+README 已更新到 V4.0/Skill 1.2.0,PASS,版本与核心强化已说明
+CHANGELOG 记录 V4.0 更新,PASS,更新记录齐全
+六个可复现工具齐全,PASS,6/6

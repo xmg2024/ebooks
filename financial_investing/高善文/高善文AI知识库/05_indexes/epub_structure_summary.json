@@ -1,0 +1,75 @@
+{
+  "source_file": "高善文文集V4.0.epub",
+  "source_size_bytes": 47578148,
+  "source_sha256": "d84eb38d989588b66ec63d0dce528f94564ecd444f043f7c46dfd21c12dc4366",
+  "epub_metadata": {
+    "identifier": "urn:uuid:f788e5c4-e8c5-5059-8461-a58053dc7d34",
+    "title": "高善文文集 V4.0",
+    "language": "zh-CN",
+    "creator": "高善文",
+    "contributor": "原安信宏观组",
+    "publisher": "文集汇编：原安信宏观组",
+    "description": "高善文文集 V4.0：依据网站主题标签重新编目的代表作、宏观研究、评论与随笔合集。",
+    "modified": "2026-07-20T07:29:17Z",
+    "package_version": "3.0"
+  },
+  "zip_entry_count": 1158,
+  "manifest_item_count": 1155,
+  "spine_item_count": 173,
+  "spine_paths_all_exist": true,
+  "mimetype_is_first_entry": true,
+  "mimetype_is_uncompressed": true,
+  "mimetype_value": "application/epub+zip",
+  "xhtml_count": 174,
+  "article_count": 160,
+  "category_page_count": 9,
+  "category_article_counts": {
+    "成长、追忆与评论": 12,
+    "代表作与研究方法": 8,
+    "周期、通胀与人口": 22,
+    "流动性、利率与汇率": 26,
+    "资本市场与金融风险": 30,
+    "房地产、城市化与消费": 23,
+    "产业、产能与能源转型": 12,
+    "贸易、国际收支与全球经济": 17,
+    "财政、疫情及宏观应对": 10
+  },
+  "internal_type_counts": {
+    "commentary": 7,
+    "essay": 10,
+    "analysis": 140,
+    "representative": 3
+  },
+  "date_precision_counts": {
+    "day": 157,
+    "unknown": 3
+  },
+  "article_non_ws_chars": 858136,
+  "article_cjk_chars": 742943,
+  "article_length_non_ws_min": 123,
+  "article_length_non_ws_median": 4073,
+  "article_length_non_ws_max": 24339,
+  "article_heading_count_h2_h6": 298,
+  "article_table_count": 720,
+  "article_chart_table_count": 676,
+  "image_asset_count": 979,
+  "image_reference_count": 978,
+  "articles_with_images": 57,
+  "image_media_counts": {
+    "JPEG": 273,
+    "PNG": 706
+  },
+  "image_total_bytes": 49404073,
+  "duplicate_image_hash_group_count": 15,
+  "files_in_duplicate_image_groups": 33,
+  "manifest_media_type_counts": {
+    "application/xhtml+xml": 174,
+    "application/x-dtbncx+xml": 1,
+    "image/jpeg": 273,
+    "image/png": 706,
+    "text/css": 1
+  },
+  "internal_reference_count": 2626,
+  "missing_internal_reference_count": 0,
+  "validation_scope_note": "完成 ZIP 完整性、mimetype、manifest、spine、文章链接与图片引用检查；未运行独立的 DAISY/W3C EPUBCheck。"
+}

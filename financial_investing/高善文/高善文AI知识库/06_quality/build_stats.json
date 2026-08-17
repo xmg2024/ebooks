@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-07-20T07:51:05+00:00",
+  "article_count": 160,
+  "semantic_chunk_count": 1264,
+  "fixed_chunk_count": 1053,
+  "semantic_chunk_non_ws_min": 123,
+  "semantic_chunk_non_ws_median": 725,
+  "semantic_chunk_non_ws_max": 1247,
+  "fixed_chunk_non_ws_min": 123,
+  "fixed_chunk_non_ws_median": 1024,
+  "fixed_chunk_non_ws_max": 1752,
+  "duplicate_groups": 0,
+  "figure_article_count": 57,
+  "topic_count": 19,
+  "methodology_concept_count": 16,
+  "broad_observation_dimension_count": 9,
+  "exclusive_evidence_method_count": 8
+}

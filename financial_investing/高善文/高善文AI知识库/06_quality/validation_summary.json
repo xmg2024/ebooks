@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-07-20T08:09:07+00:00",
+  "knowledge_pack_version": "4.0",
+  "skill_version": "1.2.0",
+  "source_epub": "高善文文集V4.0.epub",
+  "source_epub_sha256": "d84eb38d989588b66ec63d0dce528f94564ecd444f043f7c46dfd21c12dc4366",
+  "total_checks": 60,
+  "passed": 60,
+  "failed": 0,
+  "all_passed": true,
+  "article_count": 160,
+  "semantic_chunk_count": 1264,
+  "fixed_chunk_count": 1053,
+  "reference_module_count": 8,
+  "test_case_count": 13
+}

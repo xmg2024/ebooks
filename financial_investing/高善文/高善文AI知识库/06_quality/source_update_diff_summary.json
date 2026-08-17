@@ -1,0 +1,53 @@
+{
+  "source_epub": "高善文文集V4.0.epub",
+  "source_epub_sha256": "d84eb38d989588b66ec63d0dce528f94564ecd444f043f7c46dfd21c12dc4366",
+  "source_epub_size_bytes": 47578148,
+  "source_epub_metadata": {
+    "opf_path": "OEBPS/content.opf",
+    "identifier": "urn:uuid:f788e5c4-e8c5-5059-8461-a58053dc7d34",
+    "title": "高善文文集 V4.0",
+    "language": "zh-CN",
+    "creator": "高善文",
+    "contributor": "原安信宏观组",
+    "publisher": "文集汇编：原安信宏观组",
+    "description": "高善文文集 V4.0：依据网站主题标签重新编目的代表作、宏观研究、评论与随笔合集。",
+    "modified": "2026-07-20T07:29:17Z",
+    "package_version": "3.0"
+  },
+  "v4_article_count": 160,
+  "legacy_v3_article_count": 108,
+  "v4_status_counts": {
+    "retained_exact": 87,
+    "retained_revised": 3,
+    "new_in_v4": 63,
+    "consolidated_from_v3": 7
+  },
+  "legacy_relationship_counts": {
+    "retained_exact": 94,
+    "removed_from_v4": 4,
+    "retained_revised": 4,
+    "retained_minor_revision": 5,
+    "legacy_abridged_consolidated": 1
+  },
+  "v4_categories": {
+    "产业、产能与能源转型": 12,
+    "代表作与研究方法": 8,
+    "周期、通胀与人口": 22,
+    "成长、追忆与评论": 12,
+    "房地产、城市化与消费": 23,
+    "流动性、利率与汇率": 26,
+    "财政、疫情及宏观应对": 10,
+    "贸易、国际收支与全球经济": 17,
+    "资本市场与金融风险": 30
+  },
+  "date_min": "2009-08-15",
+  "date_max": "2024-10-22",
+  "dated_article_count": 157,
+  "undated_article_count": 3,
+  "source_non_ws_chars": 858136,
+  "source_cjk_chars": 742943,
+  "articles_with_images": 57,
+  "image_reference_count": 978,
+  "minimum_markdown_body_cjk_similarity": 1.0,
+  "average_markdown_body_cjk_similarity": 1.0
+}
